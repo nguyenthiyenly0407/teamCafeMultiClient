@@ -1,0 +1,36 @@
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\TeamCafe.exe.config
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\TeamCafe.exe
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\TeamCafe.pdb
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Client.NhanVien.resources
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Login.resources
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Server.QuanLy.resources
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.exe
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.pdb
+C:\Users\Lenovo\OneDrive - Trường ĐH CNTT - University of Information Technology\FileHocTap\Nam2\LapTrinhMang\LiThuyet\doan\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Client.AccountProfile.resources
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\TeamCafe.exe.config
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\TeamCafe.exe
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\TeamCafe.pdb
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Client.AccountProfile.resources
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Client.NhanVien.resources
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Login.resources
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Properties.Resources.resources
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Server.QuanLy.resources
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.GenerateResource.cache
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.exe
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.pdb
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.CopyComplete
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\Interop.SHDocVw.dll
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\Interop.SHDocVw.dll
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\teamCafeMultiClient\TeamCafe\TeamCafe\obj\Debug\TeamCafe.Client.hoadon.resources
